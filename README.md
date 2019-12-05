@@ -1,7 +1,8 @@
+# Тема 5. Понятие функции, объявление функций
 
-Тема 5. Понятие функции, объявление функций
-Инвариантная самостоятельная работа:
+### Инвариантная самостоятельная работа:
 Задание 1:
+```python
 """
 Shimko Nikita
 IVT 2, group 1
@@ -32,8 +33,9 @@ def main():
     print(result)
 
 main()
-
+```
 Задание 2:
+```python
 """
 Shimko Nikita
 IVT 2, group 1
@@ -58,7 +60,9 @@ def main():
     print(result)
 
 main()
+```
 Задание 3:
+```python
 def fib(lst):
 
     lst21 = lst[len(lst) // 1 - 3 ::-2]
